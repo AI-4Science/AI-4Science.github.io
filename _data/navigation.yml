@@ -35,6 +35,7 @@
   # - title: "Portfolio"
   #   url: "/design/portfolio/"
 
+
 - title: "People"
   url: "/people/"
   side: left
@@ -55,19 +56,21 @@
   #   url: "/design/no-header-but-image/"
 
 
-- title: Recruitment
-  url: "/recruitment/"
+- title: Videos
+  url: "/videos/"
   side: left
 
-- title: Prof. Ouyang's Pub.
+
+- title: Prof. Ouyang's Pubs
   url: "/resources/"
   side: left
   # dropdown:
   # - title: "Blog Archive"
   #   url: "/blog/archive/"
 
-- title: Videos
-  url: "/videos/"
+
+- title: Recruitment
+  url: "/recruitment/"
   side: left
 
 # - title: Student Demo
