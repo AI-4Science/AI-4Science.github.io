@@ -23,17 +23,17 @@ title: "AI4Science Group @ Shanghai AI Lab"
 sidebar: right
 
 widget1:
-  title: "GradNet ICCV2019 Demo"
+  title: "Demo 1"
   url: "https://youtu.be/tWDbs3VrnbU"
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: "Check out our demo for Visual Object Tracking"
 widget2:
-  title: "Depth-based Segmentation"
+  title: "Demo 2"
   url: "https://www.youtube.com/embed/fUJ7ZkgXyZg"
   text: "Image segmentation based on depth estimation"
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/fUJ7ZkgXyZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
-  title: "Pose Tracking"
+  title: "Demo 3"
   url: "https://youtu.be/CiKJuAH2U8I"
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: "Our team won the 2nd place in the pose-track challenge."
