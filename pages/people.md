@@ -21,7 +21,7 @@ permalink: "/people/"
 
 </div>
 
----
+<!-- ---
 
 <div class="row">
 	<div class="row">
@@ -59,7 +59,7 @@ permalink: "/people/"
     {% include member.html photo="../images/people/di_huang.png" name="Di Huang" title="Ph.D. Student" %}
     {% include member.html photo="../images/people/muxing.png" name="Muxing Li" title="M.Phil. Student" %}
     </div>
-</div>
+</div> -->
 
 <!-- ---
 
