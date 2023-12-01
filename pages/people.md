@@ -106,16 +106,12 @@ permalink: "/people/"
     <div class="row">
     {% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
 
-    {% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
-
-    {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
-
     {% include member.html name="" title="" %}
     </div>
 
 </div>
 
----
+<!-- ---
 
 <div class="row">
 	<div class="row">
@@ -149,4 +145,4 @@ permalink: "/people/"
 
     {% include collaborator.html url="http://www.ee.cuhk.edu.hk/~rzhao/" name="Rui Zhao" affil="R&D VP at SenseNet" %}
 
-</div>
+</div> -->
