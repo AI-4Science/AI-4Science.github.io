@@ -4,14 +4,14 @@
 
 
 
-- title: "Publication"
-  url: "/publication/"
+- title: "Publications"
+  url: "/publications/"
   side: left
   dropdown:
-  # - title: "Publication by date"
-  #   url: "/publication/"
-  # - title: "Publication by type"
-  #   url: "/publication_type/"
+  # - title: "Publications by date"
+  #   url: "/publications/"
+  # - title: "Publications by type"
+  #   url: "/publications_type/"
   
   #dropdown:
   #- title: "Grid & Colors"
