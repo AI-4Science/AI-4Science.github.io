@@ -70,8 +70,8 @@
   url: "/videos/"
   side: left
 
-- title: FYP Student Demo
-  url: "/FYP_student_demo/"
+- title: Student Demo
+  url: "/student_demo/"
   side: left
 
 # - title: "Search"

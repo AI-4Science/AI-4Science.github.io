@@ -1,12 +1,12 @@
 ---
 layout: page
 show_meta: false
-title: "FYP Student demo"
-subheadline: "FYP Student demo"
+title: "Student demo"
+subheadline: "Student demo"
 teaser: 
 header:
    image_fullwidth: 
-permalink: "/FYP_student_demo/"
+permalink: "/student_demo/"
 
 
 widget1:
@@ -23,19 +23,6 @@ widget1:
 
 <hr>
 
-<div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e8RNy5BZllY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>Road Damage Detection</b>
-</div>
-
-<hr>
-
-<div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/M1LqUV4jLbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<b>Video Tracking</b>
-</div>
 
 
 

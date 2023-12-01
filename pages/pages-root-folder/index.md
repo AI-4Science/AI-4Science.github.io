@@ -78,11 +78,7 @@ homepage: true
         <div class="carousel-inner">
       		{% include carousel_item.html  active="true"  image="images/ecoNAS.jpg" alt="ecoNAS" title="ecoNAS" caption="Traditional neural architecture search will consume plenty of resources to evaluate candidate networks. Based on our exploration of efficient and reliable proxy tasks, we achieve an impressive 400x time reduction for evolutionary algorithm yet get better results." %}
 
-      		{% include carousel_item.html   image="images/GradNet.jpg" alt="Visual Object Tracking(VOT)" title="Visual Object Tracking(VOT)" caption="Visual object tracking aims to successively track the object in a video with target object being identified in the initial frame. We are now working on this problem and the related topic multiple object tracking (MOT)." %}
-
-      		{% include carousel_item.html  image="images/3D_Det.png" alt="DVC: An End-to-end Deep Video Compression Framework" title="Accurate Monocular 3D Object Detection" caption="we propose a monocular 3D object de- tection framework in the domain of autonomous driving. Unlike previous image-based methods which focus on RGB feature extracted from 2D images" %}
-
-          {% include carousel_item.html  image="images/Cheaper_Lunch.png" alt="Cheaper Pre-training Lunch" title="Cheaper Pre-training Lunch: An Efficient Paradigm for Object Detection" caption="we propose a general and efficient pre-training paradigm, Montage pre-training, for object detection. Montage pre-training needs only the target detection dataset while taking only 1/4 computa- tional resources compared to the widely adopted ImageNet pre-training" %}
+          {% include carousel_item.html  image="images/Cheaper_Lunch.png" alt="an alt" title="This is a Title" caption="This is a caption." %}
         </div>
 
         <!-- Left and right controls -->
