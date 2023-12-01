@@ -152,8 +152,8 @@ homepage: true
 
     {% include news_item.html  date="dd-mm-yy" content="Welcome to visit our lab!" %}
 
-{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
-{% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
+{% include news_item.html  date="1-Dec-2023" content="Our lab homepage is now onine!" %}
+{% include news_item.html  date="1-Dec-2023" content="Our lab established!" %}
 
     </div>
 
@@ -168,25 +168,9 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at Shanghai AI Lab in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for AI4Science Group</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>AI4Science Group申请须知</strong></a> and <a href=\"guidelines/scholarship_chi.pdf\"><strong>悉尼大学奖学金申请须知</strong></a>." %}
 
-    {% include news_item.html  date="14-Mar-2019" content="Welcome Xinchi Zhou, Dongzhan Zhou to join us as PhD students!" %}
+      {% include news_item.html  date="1-Dec-2023" content="Our lab homepage is now onine!" %}
 
-    {% include news_item.html  date="01-Feb-2019" content="Welcome Hongwen Zhang to join us as a visiting student!" %}
-
-    {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou to join us as a M.Phil. student!" %}
-
-    {% include news_item.html  date="21-Sep-2018" content="Welcome Yukai Shi to visit our lab!" %}
-
-    {% include news_item.html  date="20-Sep-2018" content="Congratulations to Shuyang's paper accepted by NIPS 2018" %}
-
-    {% include news_item.html  date="10-July-2018" content="Congratulations to Guo Lu's paper accepted by ECCV 2018" %}
-
-    {% include news_item.html  date="2-July-2018" content="Congratulations to Lingbo Liu's paper accepted by IJCAI 2018" %}
-
-      {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %}
-
-      {% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
-
-      {% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
+      {% include news_item.html  date="1-Dec-2023" content="Our lab established!" %}
 
     </div>
     <h3 class="mobile"> Our Research </h3>
