@@ -18,8 +18,6 @@ permalink: "/publications/"
 
 ---
 
-\[[sort by type](/publications/)\]	\[[sort by date](/publications/)\]
-
 
 ### Conference Papers
 
