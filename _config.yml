@@ -17,11 +17,11 @@ slogan: '@ Shanghai AI Lab'
 description: 'Welcome to the homepage of the AI4Science Lab at the Shanghai AI Lab'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: '<p>Created by <a href="https://kevin-ssy.github.io/">Shuyang Sun</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> </p>'
+credits: '<p>Maintained by <a href="https://zhengpeng7.github.io/">Peng Zheng</a> with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> </p>'
 
 # Main author of the website
 # See > authors.yml
-author: Shuyang Sun
+author: Peng Zheng
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
@@ -111,7 +111,7 @@ defaults:
       show_meta: false 	# Hide metadata for all pages
       # sidebar:    		# Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Shuyang Sun     # Default author for pages
+      author: Peng Zheng     # Default author for pages
   -
     scope:
       path: ''
@@ -120,7 +120,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: Shuyang Sun     # Default author for posts
+      author: Peng Zheng     # Default author for posts
 
 
 
