@@ -148,7 +148,7 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at Shanghai AI Lab in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for AI4Science Group</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/ad.pdf\"><strong>AI4Science Group招生简章</strong></a> and <a href=\"guidelines/guideline_chinese.pdf\"><strong>AI4Science Group申请须知</strong></a>" %}
 
-    <!-- {% include news_item.html  highlight="true" date="21-Sep-2018" content="Our team MMDet won the <strong> 1st place </strong> of <a href=\"http://cocodataset.org/#detection-leaderboard\">the COCO Detection Challenge</a>!!! The AWESOME code has been released in the repo <a href=\"https://github.com/open-mmlab/mmdetection\">mmdetection</a>" %} -->
+    <!-- {% include news_item.html  highlight="true" date="21-Sep-2018" content="The content..." %} -->
 
     {% include news_item.html  date="dd-mm-yy" content="Welcome to visit our lab!" %}
 
