@@ -28,7 +28,7 @@ ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencin
 
 Chaoqi Liang, Weiqiang Bai, Lifeng Qiao, et. al,
 "Rethinking the BERT-like Pretraining for DNA Sequences",
-arXiv, 2023.
+arXiv, 2023. 
 [[paper](https://arxiv.org/pdf/2310.07644.pdf)] 
 
 Tao Shen, Zhihang Hu, Zhangzhi Peng, et. al, 
@@ -70,10 +70,16 @@ Journal of the American Chemical Society (JACS) 2023, 145, 25, 13603–13614.
 
 Dong Wu, Weiyu Kong, Yang Bao, et. al,
 "Alkene 1,1-difunctionalizations via organometallic-radical relay",
-Nature Catalysis, 2023, 6, 11, 1030–1041.
+Nature Catalysis, 2023, 6, 11, 1030–1041. 
 [[paper](https://www.nature.com/articles/s41929-023-01032-0)] 
 
 
 
 ### Conference Papers
+
+"CrossBind: Collaborative Cross-Modal Identification of Protein Nucleic-Acid-Binding Residues",
+AAAI, 2024. 
+
+"ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing",
+AAAI, 2024.
 
