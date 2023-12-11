@@ -18,12 +18,7 @@ permalink: "/publications/"
 
 ---
 
-Accurate Prediction of Antibody Function and Structure Using Bio-Inspired Antibody Language Model	bioxiv	2023	https://www.biorxiv.org/content/10.1101/2023.08.30.555473v1.full.pdf
-AF2-Mutation: Adversarial Sequence Mutations against AlphaFold2 on Protein Tertiary Structure Prediction	arxiv	2023	https://arxiv.org/pdf/2305.08929.pdf
-Enhancing the Protein Tertiary Structure Prediction by Multiple Sequence Alignment Generation	arxiv	2023	https://arxiv.org/pdf/2306.01824.pdf
-CrossBind: Collaborative Cross-Modal Identification of Protein Nucleic-Acid-Binding Residues	AAAI2024	2023	
-ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing	AAAI2024	2023	
-			
+
 ### Preprint Papers
 
 Chaoqi Liang, Weiqiang Bai, Lifeng Qiao, et. al,
