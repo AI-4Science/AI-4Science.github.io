@@ -61,12 +61,20 @@
   side: left
 
 
-- title: Prof. Ouyang's Pubs
-  url: "/resources/"
+
+- title: Talks
+  url: "/talks/"
   side: left
   # dropdown:
   # - title: "Blog Archive"
   #   url: "/blog/archive/"
+
+# - title: Prof. Ouyang's Pubs
+#   url: "/resources/"
+#   side: left
+#   # dropdown:
+#   # - title: "Blog Archive"
+#   #   url: "/blog/archive/"
 
 
 - title: Recruitment

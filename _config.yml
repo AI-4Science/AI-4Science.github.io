@@ -157,16 +157,16 @@ bing_webmastertools_id:    '0FB4C028ABCF07C908C54386ABD2D97F'
 #   /_/    \__,_/ |___/_/\___/\____/_/ /_/____/   Favicon-Crap: Favicons, Chrome, Android & Apple Touch Buttons
 #                                                 More information » https://mathiasbynens.be/notes/touch-icons
 
-favicon-32x32:                          'usyd-favicon-32x32.png'
-touch-icon-192x192:                     'usyd-favicon-96x96.png'
-apple-touch-icon-180x180-precomposed:   'usyd-favicon-96x96.png'
-apple-touch-icon-152x152-precomposed:   'usyd-favicon-96x96.png'
-apple-touch-icon-144x144-precomposed:   'usyd-favicon-96x96.png'
-apple-touch-icon-120x120-precomposed:   'usyd-favicon-96x96.png'
-apple-touch-icon-114x114-precomposed:   'usyd-favicon-96x96.png'
-apple-touch-icon-76x76-precomposed:     'usyd-favicon-96x96.png'
-apple-touch-icon-72x72-precomposed:     'usyd-favicon-96x96.png'
-apple-touch-icon-precomposed:           'usyd-favicon-96x96.png'
+favicon-32x32:                          'SAIL_favicon.jpeg'
+touch-icon-192x192:                     'SAIL_favicon.jpeg'
+apple-touch-icon-180x180-precomposed:   'SAIL_favicon.jpeg'
+apple-touch-icon-152x152-precomposed:   'SAIL_favicon.jpeg'
+apple-touch-icon-144x144-precomposed:   'SAIL_favicon.jpeg'
+apple-touch-icon-120x120-precomposed:   'SAIL_favicon.jpeg'
+apple-touch-icon-114x114-precomposed:   'SAIL_favicon.jpeg'
+apple-touch-icon-76x76-precomposed:     'SAIL_favicon.jpeg'
+apple-touch-icon-72x72-precomposed:     'SAIL_favicon.jpeg'
+apple-touch-icon-precomposed:           'SAIL_favicon.jpeg'
 msapplication_tileimage:                'msapplication_tileimage.png'               # Size 144x144
 msapplication_tilecolor:                '#fabb00'
 
