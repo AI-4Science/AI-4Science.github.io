@@ -29,7 +29,7 @@ permalink: "/talks/"
 + Link:    https://www.shlab.org.cn/event/detail/35
 + Video:   https://aicarrier.feishu.cn/file/AH6LbX6epoim0DxACwRcEi3PnMd
 
-<br />
+---
 
 
 #### Large Language Models in Biomedicine
@@ -39,7 +39,9 @@ permalink: "/talks/"
 + Link:    https://www.shlab.org.cn/event/detail/39
 + Video:   https://aicarrier.feishu.cn/file/QXpQbr64boMC1dxYO6ncDP1insg
 
-<br />
+---
+
+
 
 
 
