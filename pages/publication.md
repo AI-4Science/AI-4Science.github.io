@@ -73,12 +73,17 @@ Nature Catalysis, 2023, 6, 11, 1030–1041.
 
 ### Conference Papers
 
+Linglin Jing, Sheng Xu, Yifan Wang, et. al,
 "CrossBind: Collaborative Cross-Modal Identification of Protein Nucleic-Acid-Binding Residues",
 AAAI, 2024. 
+[[paper](https://arxiv.org/abs/2312.12094)]
+[[code](https://github.com/BEAM-Labs/CrossBind)]
 
+Zhi Jin, Sheng Xu, Xiang Zhang, et. al,
 "ContraNovo: A Contrastive Learning Approach to Enhance De Novo Peptide Sequencing",
 AAAI, 2024.
-
+[[paper](https://arxiv.org/abs/2312.11584)]
+[[code](https://github.com/BEAM-Labs/ContraNovo)]
 
 <br />
 
