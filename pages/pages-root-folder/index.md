@@ -30,7 +30,7 @@ widget1:
 widget2:
   title: "HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining"
   url: "https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1"
-  video: '<iframe width="360" height="240" src="https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  video: '<iframe width="360" height="240" src="https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1&autoplay=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: "Towards General Human-centric Perception."
 widget3:
   title: "Demo 3"
