@@ -23,15 +23,15 @@ title: "AI4Science Group @ Shanghai AI Lab"
 sidebar: right
 
 widget1:
-  title: "Demo 1"
-  url: "https://youtu.be/tWDbs3VrnbU"
-  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: "Check out our demo for Visual Object Tracking"
+  title: "SCPNet: Semantic Scene Completion on Point Cloud"
+  url: "https://youtu.be/X2mHXxPM5hg"
+  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/X2mHXxPM5hg" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: "Check out our Semantic Scene Completion on Point Cloud."
 widget2:
-  title: "Demo 2"
-  url: "https://www.youtube.com/embed/fUJ7ZkgXyZg"
-  text: "Image segmentation based on depth estimation"
-  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/fUJ7ZkgXyZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  title: "HumanBench: Towards General Human-centric Perception with Projector Assisted Pretraining"
+  url: "https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1"
+  video: '<iframe width="360" height="240" src="https://player.bilibili.com/player.html?aid=234574888&bvid=BV128411k7WD&cid=1298107862&p=1" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: "Towards General Human-centric Perception."
 widget3:
   title: "Demo 3"
   url: "https://youtu.be/CiKJuAH2U8I"
