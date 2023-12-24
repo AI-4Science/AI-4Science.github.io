@@ -55,6 +55,11 @@ arXiv, 2023.
 [[paper](https://arxiv.org/abs/2306.01824)] 
 [[code](https://github.com/Magiccircuit/MSA-Augmentor)]
 
+Kang Chen, Tao Han, Junchao Gong, et. al,
+"FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead",
+arXiv, 2023. 
+[[paper](https://arxiv.org/abs/2304.02948)] 
+
 
 
 ### Journal Papers
@@ -70,8 +75,17 @@ Nature Catalysis, 2023, 6, 11, 1030–1041.
 [[paper](https://www.nature.com/articles/s41929-023-01032-0)] 
 
 
+Yaning Cui, Kang Chen, Lingyao Zhang, et. al,
+"Atomic Positional Embedding-Based Transformer Model for Predicting the Density of States of Crystalline Materials",
+The Journal of Physical Chemistry Letters, 2023, 14, 35, 7924–7930. 
+[[paper](https://www.nature.com/articles/s41929-023-01032-0)] 
+
 
 ### Conference Papers
+
+"The Logarithm Trick: achieve better long term forecast via Mean Logarithm Square Loss",
+ICLR, 2024. 
+[[paper](https://openreview.net/forum?id=Y29rdPpPu4)]
 
 Linglin Jing, Sheng Xu, Yifan Wang, et. al,
 "CrossBind: Collaborative Cross-Modal Identification of Protein Nucleic-Acid-Binding Residues",
@@ -307,4 +321,41 @@ CVPR, 2023.
 [[paper](https://arxiv.org/abs/2212.09948)]
 
 
+
+## Other Topics
+
+> 2D vision, ML, LLM, etc.
+
+
+### Preprint Papers
+
+Pumeng Lyu, Tao Tang, Fenghua Ling, et. al,
+"ResoNet: Robust and Explainable ENSO Forecasts with Hybrid Convolution and Transformer Networks",
+arXiv, 2023.
+[[paper](https://arxiv.org/abs/2312.10429)]
+
+
+### Journals
+
+Honghui Yang, Tong He, Jiaheng Liu, et. al,
+"Continuous Cross-resolution Remote Sensing Image Change Detection",
+IEEE TGRS, 2023.
+[[paper](https://arxiv.org/abs/2212.03010)]
+[[code](https://github.com/justchenhao/SILI_CD)]
+
+
+### Conferences
+
+Tao Han, Lei Bai, Lingbo Liu, et. al,
+"STEERER: Resolving Scale Variations for Counting and Localization via Selective Inheritance Learning",
+ICCV, 2023.
+[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Han_STEERER_Resolving_Scale_Variations_for_Counting_and_Localization_via_Selective_ICCV_2023_paper.pdf)]
+[[code](https://github.com/taohan10200/STEERER)]
+
+Zhenfei Yin, Jiong Wang, Jianjian Cao, et. al,
+"LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark ",
+NeurIPS, 2023.
+[[paper](https://arxiv.org/abs/2306.06687)]
+[[code](https://github.com/OpenGVLab/LAMM)]
+[[demo](http://106.14.2.150:10005/)]
 
