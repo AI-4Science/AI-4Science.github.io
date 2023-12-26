@@ -23,7 +23,7 @@ permalink: "/talks/"
 
 
 #### Use of AI Deep Learning for Climate Forecasts
-![Talk](/images/talks/talk_2023-11-28.jpeg =200x360)
+<img src="/images/talks/talk_2023-11-28.jpeg" width="200" height="360" />
 + Speaker: 罗京佳
 + Inviter: AI4Earth-苏锐
 + Time:    2023.11
@@ -34,7 +34,7 @@ permalink: "/talks/"
 
 
 #### Large Language Models in Biomedicine
-![Talk](/images/talks/talk_2023-12-13.png =200x360)
+<img src="/images/talks/talk_2023-12-13.png" width="200" height="360" />
 + Speaker: 高欣
 + Inviter: AI4Biology&Agriculture-高志强
 + Time:    2023.12
