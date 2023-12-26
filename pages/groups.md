@@ -8,7 +8,8 @@ header:
   image_fullwidth:
 permalink: "/groups/"
 ---
-Bio/Earth/Phy/Che/Mat/Sc
+
+
 # Group - AI4Bio
 + Research:
 
